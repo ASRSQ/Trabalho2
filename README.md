@@ -31,6 +31,11 @@
 <p>Caso queira ver mais detalhes sobre o veículo digite seu código que é o primeiro item que aparece nas listas como: "001".</p>
 <p>*Caso seja digitado um número não cadastrado será apresentado um erro.</p>
 <h2>2-Adicionar veículos</h2>
+<p>Aqui será cadastrado um novo veículo.</p>
+<p>Serão pedidos a marca, o modelo, o ano e o valor da diária do veículo.</p>
+<p>Depois de adicionado o novo veículo aparecerá na lista, odera ser alugado ou reservado e o contador "Cadastros" será adciconado em um.
+<h2>3-Alugar/reservar veículos</h2> 
+
 
   
 
