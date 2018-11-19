@@ -25,7 +25,12 @@
 <h3>No rodapé</h3>
 <p>Aqui são mostrados data e hora.</p>
 <p>Por  fim tem a seguinte ordem: Digite um número de 1-7 para escolher uma das opções:</p>
-<p>*Caso seja digitado um caractere que não está listado será apresentado um erro </p>
+<p>*Caso seja digitado um caractere que não está listado será apresentado um erro.</p>
+<h2>1-Consultar veículos</h2>
+<p>Aqui aparece a lista de todos os veículos cadastrados(Até os excluidos).</p>
+<p>Caso queira ver mais detalhes sobre o veículo digite seu código que é o primeiro item que aparece nas listas como: "001".</p>
+<p>*Caso seja digitado um número não cadastrado será apresentado um erro.</p>
+<h2>2-Adicionar veículos</h2>
 
   
 
