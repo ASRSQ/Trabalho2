@@ -51,7 +51,11 @@
 <p>Aparecerá a divida que foi acumulada e uma mensagem dizendo que o veículo foi liberado e ele já estará dispinível para aluguel.</p>
 <h3>Liberar</h3>
 <p>Caso escolha devolver será pedido o código ou número do veículo que deseja ser liberado.</p>
-<p>A diferença desse para Devolver é que não gera dívida.</p>
+<p>*A diferença desse para Devolver é que não gera dívida.</p>
+<h2>5-Excluir veículos </h2>
+<p>Aqui poderão ser excluidos os veículos que não estão alugados nem reservados.</p>
+<p>*O veículo ainda será contabilizado como registrado mas terá o status de excluido.</p>
+
 
 
 
