@@ -24,7 +24,7 @@
 <p>Cada item acima tem uma funcionalidade que será explicada a seguir.</p>
 <h3>No rodapé</h3>
 <p>Aqui são mostrados data e hora.</p>
-<p>Por  fim tem a seguintte ordem: Digite um número de 1-7 para escolher uma das opções:</p>
+<p>Por  fim tem a seguinte ordem: Digite um número de 1-7 para escolher uma das opções:</p>
 <p>*Caso seja digitado um caractere que não está listado será apresentado um erro </p>
 
   
