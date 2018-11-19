@@ -40,7 +40,7 @@
 <p>Caso escolha alugar será pedido o código do veículo, o nome do locatário e a quantidade de dias que ele passará a partir do dia atual.</p>
 <p>*Essa quantidade de dias conta o dia atual também ou seja se forem 3 dias serão dois dias a mais além do atual.</p>
 <h3>Reservar</h3>
-<p>Caso escolha alugar será pedido o código do veículo, o nome do locatário, a data da reserva e a quantidade de dias que ele passará a partir do dia da reserva.<b> ATENÇÃO:</b>a data da reserva deve ser do formato "DDAAAAMM" ou seja se deseja reservar para dia primeiro de dezembro de 2018 deve ser digitado: 01201812, caso seja digitado em um formato diferente o programa não funcionará direito.</p>
+<p>Caso escolha alugar será pedido o código do veículo, o nome do locatário, a data da reserva e a quantidade de dias que ele passará a partir do dia da reserva.<b> ATENÇÃO: </b> a data da reserva deve ser do formato "DDAAAAMM" ou seja se deseja reservar para dia primeiro de dezembro de 2018 deve ser digitado: 01201812, caso seja digitado em um formato diferente o programa não funcionará direito.</p>
 <p>*Assim como no aluguel essa quantidade de dias conta o dia da reserva também ou seja se forem 3 dias serão dois dias a mais além do reservado.</p>
 <h2>4-Devolver/liberar veículos</h2>
 <p>Aqui os veículos serão devolvidos mostrando o valor a ser pago.</p>
@@ -55,7 +55,9 @@
 <h2>5-Excluir veículos </h2>
 <p>Aqui poderão ser excluidos os veículos que não estão alugados nem reservados.</p>
 <p>*O veículo ainda será contabilizado como registrado mas terá o status de excluido.</p>
-
+<h2>6-Avançar data atual</h2>
+<p>Avance um dia.Os meses são considerados com 30 dias.</p>
+<h2>7-Sair</h2>
 
 
 
