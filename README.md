@@ -35,6 +35,16 @@
 <p>Serão pedidos a marca, o modelo, o ano e o valor da diária do veículo.</p>
 <p>Depois de adicionado o novo veículo aparecerá na lista, odera ser alugado ou reservado e o contador "Cadastros" será adciconado em um.
 <h2>3-Alugar/reservar veículos</h2> 
+<p>Há duas opções 1 alugar e 2 resevar.</p>
+<h3>Alugar</h3>
+<p>Caso escolha alugar será pedido o código do veículo, o nome do locatário e a quantidade de dias que ele passará a partir do dia atual.</p>
+<p>*Essa quantidade de dias conta o dia atual também ou seja se forem 3 dias serão dois dias a mais além do atual.</p>
+<h3>Reservar</h3>
+<p>Caso escolha alugar será pedido o código do veículo, o nome do locatário, a data da reserva e a quantidade de dias que ele passará a partir do dia da reserva.<b>ATENÇÃO:</b>a data da reserva deve ser do formato "DDAAAAMM" ou seja se deseja reservar para dia primeiro de dezembro de 2018 deve ser digitado: 01201812, caso seja digitado em um formato diferente o programa não funcionará direito.</p>
+<p>*Assim como no aluguel essa quantidade de dias conta o dia da reserva também ou seja se forem 3 dias serão dois dias a mais além do reservado.</p>
+
+
+
 
 
   
