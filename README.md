@@ -42,6 +42,20 @@
 <h3>Reservar</h3>
 <p>Caso escolha alugar será pedido o código do veículo, o nome do locatário, a data da reserva e a quantidade de dias que ele passará a partir do dia da reserva.<b> ATENÇÃO:</b>a data da reserva deve ser do formato "DDAAAAMM" ou seja se deseja reservar para dia primeiro de dezembro de 2018 deve ser digitado: 01201812, caso seja digitado em um formato diferente o programa não funcionará direito.</p>
 <p>*Assim como no aluguel essa quantidade de dias conta o dia da reserva também ou seja se forem 3 dias serão dois dias a mais além do reservado.</p>
+<h2>4-Devolver/liberar veículos</h2>
+<p>Aqui os veículos serão devolvidos mostrando o valor a ser pago.</p>
+<p>São mostrados os veículos alugados ou reservados, seus modelos e os respectivos Locatários.</p>
+<p>Há duas opções 1 devolver e 2 liberar.</p>
+<h3>Devolver</h3>
+<p>Caso escolha devolver será pedido o código ou número do veículo que deseja ser devolvido.</p>
+<p>Aparecerá a divida que foi acumulada e uma mensagem dizendo que o veículo foi liberado e ele já estará dispinível para aluguel.</p>
+<h3>Liberar</h3>
+<p>Caso escolha devolver será pedido o código ou número do veículo que deseja ser liberado.</p>
+<p>A diferença desse para Devolver é que não gera dívida.</p>
+
+
+
+
 
 
 
