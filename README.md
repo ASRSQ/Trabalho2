@@ -7,7 +7,7 @@
 <h2>Primeiro passo</h2>
 <p>O projeto foi feito na versão 3.7 do python em um pc com windows</p>
 <p>Para que o programa seja executado é necesário que seja feito clone do arquivo no formato .zip e apenas executar o arquivo Aluguel.exe</p>
-<p>*Caso não dê certo abra O Idle importe o arquivo tb2.py e excute</p>
+<p>*Caso não dê certo abra O Idle importe o arquivo tb2.py e execute</p>
 <h2>Tela principal</h2>
 <p>Quando o programa for executa aprecerá uma tela principal parecida com os segunites itens:</p>
 <h3>No cabeçalho</h3>
