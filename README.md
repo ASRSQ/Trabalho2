@@ -54,12 +54,12 @@
 <p>Caso escolha liberar será pedido o código ou número do veículo que deseja ser liberado.</p>
 <p>*A diferença desse para Devolver é que não gera dívida.</p>
 <h2>5-Excluir veículos </h2>
-<p>Aqui poderão ser excluidos os veículos que não estão alugados nem reservados.</p>
-<p>*O veículo ainda será contabilizado como registrado mas terá o status de excluido.</p>
+<p>Aqui poderão ser excluidos os veículos que estão dispiníveis.</p>
+<p>*O veículo ainda será contabilizado como registrado mas terá o status de excluido e não poderá ser alugado nem reservado.</p>
 <h2>6-Avançar data atual</h2>
 <p>Avance um dia.Os meses são considerados com 30 dias.</p>
 <h2>7-Sair</h2>
-
+<p>Sai do programa.</p>
 
 
 
