@@ -34,7 +34,7 @@
 <h2>2-Adicionar veículos</h2>
 <p>Aqui será cadastrado um novo veículo.</p>
 <p>Serão pedidos a marca, o modelo, o ano e o valor da diária do veículo.</p>
-<p>Depois de adicionado o novo veículo aparecerá na lista, podera ser alugado ou reservado e o contador "Cadastros" será adiciconado em um.
+<p>Depois de adicionado o novo veículo aparecerá na lista, podera ser alugado ou reservado e o contador "Cadastros" será adicionado em um.
 <h2>3-Alugar/reservar veículos</h2> 
 <p>Há duas opções 1 alugar e 2 resevar.</p>
 <h3>Alugar</h3>
